@@ -1,0 +1,11 @@
+title: Iltaek Kwon, 권일택
+url: "https://iltaek.me"
+baseurl: ""
+
+markdown: kramdown
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
