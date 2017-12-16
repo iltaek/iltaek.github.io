@@ -33,7 +33,7 @@ Hi! I am a Ph.D. student majoring in Computer Science at Hanyang University, Rep
 ### PGP Key
 You can encrypt your message with my public key
 
-You can find it from gpg key server
+You can find it from the gpg key server
 <pre><code>
 $ gpg --search-keys iltaekkwon@gmail.com
 gpg: data source: https://51.15.0.17:443
