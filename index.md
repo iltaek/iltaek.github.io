@@ -22,7 +22,7 @@ Hi! I am a Ph.D. student majoring in Computer Science at Hanyang University, Rep
 [https://github.com/iltaek/til](https://github.com/iltaek/til)
 > I write what I learned in a short markdown documents.
 >
-> It is a repo that started with [thoughtbot/til](https://github.com/thoughtbot/til)'s inspiration.
+> This repo started with the inspiration of [thoughtbot/til](https://github.com/thoughtbot/til).
 
 ## Contant Details
 
