@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a Ph.D. student majoring in Computer Science at Hanyang University, Republic of Korea. I received B.S. in Computer Science and Engineering at the same school. I love writing a program, reversing a binary, and finding software's bug. Also I play CTF sometimes.
+Hi! I am Iltaek Kwon, a Ph.D. student majoring in Computer Science at Hanyang University, Republic of Korea. I received B.S. in Computer Science and Engineering at the same school. I love writing a program, reversing a binary, and finding software's bug. Also I play CTF sometimes.
 
 ## I have some interesting sites
 
