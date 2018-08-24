@@ -24,7 +24,7 @@ Hi! I am Iltaek, a programmer and researcher working for TmaxSoft. I recently in
 >
 > This repo started with the inspiration of [thoughtbot/til](https://github.com/thoughtbot/til).
 
-## Contant Details
+## Contact Details
 
 -	Email: [iltaekkwon@gmail.com](mailto:filtaekkwon@gmail.com) *(Email is the easiest way to ping me)*
 -	Github: [@iltaek](https://github.com/iltaek)
