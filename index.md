@@ -4,9 +4,9 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="me.svg">
 
-Hi! I am Iltaek, a programmer and researcher working for TmaxSoft. I recently interested in Java stuff like JVM, JCA, JDBC. But In general, I love writing a program, reversing a binary, and finding software's bug. Also I play CTF sometimes.
+Hi! I am Iltaek, a programmer. I recently interested in writing a `clean code`. But In general, I love writing a program, reversing a binary, and finding software's bug. Also I play CTF sometimes.
 
 ## I have some interesting sites
 
